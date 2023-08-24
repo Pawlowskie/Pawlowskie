@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pawlowskie
-- 👀 I’m interested in literature
-- 🌱 I’m currently learning CS50
+- 👀 I’m interested in Brest même
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me : by email
 
